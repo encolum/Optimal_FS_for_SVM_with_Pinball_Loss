@@ -7,8 +7,8 @@ from sklearn.model_selection import KFold, StratifiedKFold
 import sys
 import argparse
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
-from src.experiment.run_experiment_2 import run_cv_for_params 
-from src.utils.data_loader_2 import load_dataset
+from src.experiment.run_experiment import run_cv_for_params 
+from src.utils.data_loader import load_dataset
 from src.models.pin_fs_svm import PinFSSVM 
 
 
