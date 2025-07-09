@@ -213,18 +213,6 @@ Experimental results are saved in:
 
 This work is part of research on robust feature selection methods for machine learning. Please cite appropriately if using this code in your research.
 
-## License
-
-[Add appropriate license information]
-
-## Contributors
-
-[Add contributor information]
-
-## Contact
-
-[Add contact information for questions or collaborations]
-
 ---
 
 **Note**: This project requires IBM CPLEX solver for optimization-based models. Ensure proper licensing and installation of CPLEX before running experiments.
