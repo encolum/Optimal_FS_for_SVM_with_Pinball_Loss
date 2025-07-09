@@ -97,7 +97,7 @@ Pin_FS_SVM/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Pin_FS_SVM
+cd Optimal_FS_for_SVM_with_Pinball_Loss
 ```
 
 2. Install required dependencies:
